@@ -1,4 +1,4 @@
-#plot the values
+#plot the given values 
 import matplotlib.pyplot as plt
 import numpy as np 
 x  = np.array([0,10])
